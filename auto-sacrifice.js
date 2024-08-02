@@ -1,4 +1,4 @@
-!function()
+javascript : (!function()
 {
 	Game.registerMod("autosacrifice",
 	{
@@ -2097,4 +2097,4 @@
 			Game.ObjectsById[2].minigame.harvest(j, i, true);
 		}
 	});
-}();
+}());
